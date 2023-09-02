@@ -1,0 +1,16 @@
+C:\Users\dougl\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe.config
+C:\Users\dougl\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.exe
+C:\Users\dougl\source\repos\BankingSystem\BankingSystem\bin\Debug\BankingSystem.pdb
+C:\Users\dougl\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.exe
+C:\Users\dougl\source\repos\BankingSystem\BankingSystem\obj\Debug\BankingSystem.pdb
+C:\Users\dougl\source\repos\repos2\BankingSystem\bin\Debug\BankingSystem.exe.config
+C:\Users\dougl\source\repos\repos2\BankingSystem\bin\Debug\BankingSystem.exe
+C:\Users\dougl\source\repos\repos2\BankingSystem\bin\Debug\BankingSystem.pdb
+C:\Users\dougl\source\repos\repos2\BankingSystem\obj\Debug\BankingSystem.csproj.AssemblyReference.cache
+C:\Users\dougl\source\repos\repos2\BankingSystem\obj\Debug\BankingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\dougl\source\repos\repos2\BankingSystem\obj\Debug\BankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\repos2\BankingSystem\obj\Debug\BankingSystem.exe
+C:\Users\dougl\source\repos\repos2\BankingSystem\obj\Debug\BankingSystem.pdb
